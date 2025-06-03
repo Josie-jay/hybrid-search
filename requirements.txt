@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+pgvector
+pydantic
+numpy
+scikit-learn  # for vector similarity fallback if needed
+python-dotenv
+openai
