@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env
+
+# VS Code settings
+.vscode/
+
+# macOS
+.DS_Store
+
+# Docker
+*.log
+*.pid
+
+# Python packaging
+*.egg-info/
+dist/
+build/
+
+# Data
+*.sqlite3
+*.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS junk
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDEs
+.idea/
+*.iml
+
+# Local configs
+.env.*
+.envrc
+*.secret
+
+# Pydantic cache
+__pydantic__/
